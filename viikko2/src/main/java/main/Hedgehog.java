@@ -1,6 +1,5 @@
 // Tekijä: Sami Anttalainen
 // Päivämäärä: 24.1.2023
-// Opiskelijanumero: 001067291
 // Tehtävä: Siiliolio
 
 package main;
