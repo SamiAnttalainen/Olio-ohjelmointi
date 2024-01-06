@@ -1,5 +1,4 @@
 // Tekijä: Sami Anttalainen
-// Opiskelijanumero: 001067291
 // Päivämäärä: 9.2.2023
 // Tehtävä: Yliopisto tietokanta
 
